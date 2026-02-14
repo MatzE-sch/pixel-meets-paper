@@ -1,0 +1,42 @@
+{
+  "stats": {
+    "minecraft:picked_up": {
+      "minecraft:stone_pressure_plate": 1,
+      "minecraft:apple": 1,
+      "minecraft:oak_sapling": 1,
+      "minecraft:end_stone": 1
+    },
+    "minecraft:used": {
+      "minecraft:structure_block": 15,
+      "minecraft:stone_pressure_plate": 7,
+      "minecraft:grass_block": 5,
+      "minecraft:sand": 1,
+      "minecraft:reinforced_deepslate": 1,
+      "minecraft:deepslate_bricks": 37,
+      "minecraft:stone_brick_stairs": 70,
+      "minecraft:end_stone": 4,
+      "minecraft:stone_bricks": 13,
+      "minecraft:command_block": 4,
+      "minecraft:chiseled_stone_bricks": 1
+    },
+    "minecraft:dropped": {
+      "minecraft:end_stone": 1
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 50787,
+      "minecraft:walk_one_cm": 36523,
+      "minecraft:leave_game": 2,
+      "minecraft:play_time": 141136,
+      "minecraft:jump": 59,
+      "minecraft:time_since_death": 50766,
+      "minecraft:drop": 1,
+      "minecraft:sprint_one_cm": 4844,
+      "minecraft:total_world_time": 236308,
+      "minecraft:fly_one_cm": 394464,
+      "minecraft:crouch_one_cm": 3350,
+      "minecraft:sneak_time": 1683,
+      "minecraft:deaths": 1
+    }
+  },
+  "DataVersion": 4671
+}
