@@ -1,0 +1,22 @@
+[19:34:42] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, profilesHost=https://api.mojang.com, name=PROD]
+[19:34:42] [ServerMain/ERROR]: Couldn't load file/pixel-meets-paper pack metadata: Pack declares support for version newer than 81, but is missing mandatory fields min_format and max_format
+[19:34:44] [Worker-Main-5/ERROR]: Couldn't parse data file 'pmp:callthiswhatyouwant' from 'pmp:advancement/callthiswhatyouwant.json': DataResult.Error['No key id in MapLike[{"item":"minecraft:emerald"}]': ab[parent=Optional[global:namespace], display=Optional.empty, rewards=ag[experience=0, loot=[], recipes=[], function=Optional.empty], criteria={trigger=ak[trigger=cy@ec42811, triggerInstance=a[player=Optional.empty]]}, requirements=[[trigger]], sendsTelemetryEvent=false, name=Optional.empty]]
+[19:34:44] [Worker-Main-5/ERROR]: Couldn't parse data file 'global:name' from 'global:advancement/name.json': DataResult.Error['Not a valid resource location: <item-or-block> Non [a-z0-9/._-] character in path of location: minecraft:<item-or-block>': ab[parent=Optional[global:root], display=Optional.empty, rewards=ag[experience=0, loot=[], recipes=[], function=Optional.empty], criteria={tick=ak[trigger=cy@ec42811, triggerInstance=a[player=Optional.empty]]}, requirements=[[tick]], sendsTelemetryEvent=false, name=Optional.empty]]
+[19:34:44] [ServerMain/INFO]: Loaded 1470 recipes
+[19:34:44] [ServerMain/INFO]: Loaded 1585 advancements
+[19:34:44] [Server thread/INFO]: Starting minecraft server version 1.21.11
+[19:34:44] [Server thread/INFO]: Loading properties
+[19:34:44] [Server thread/INFO]: Default game type: SURVIVAL
+[19:34:44] [Server thread/INFO]: Generating keypair
+[19:34:44] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:34:44] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19:34:44] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[19:34:44] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[19:34:45] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[19:34:45] [Server thread/INFO]: Preparing level "pixel-meets-paper"
+[19:34:45] [Server thread/INFO]: Loading 0 persistent chunks...
+[19:34:45] [Server thread/INFO]: Preparing spawn area: 100%
+[19:34:45] [Server thread/INFO]: Time elapsed: 16 ms
+[19:34:45] [Server thread/INFO]: Done (0.501s)! For help, type "help"
+[19:34:45] [Server thread/INFO]: [Not Secure] [Server] hi
+[19:35:45] [Server thread/INFO]: Server empty for 60 seconds, pausing
